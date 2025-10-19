@@ -1,6 +1,0 @@
-streamlit
-sqlite3
-pandas
-matplotlib
-duckdb
-logging
