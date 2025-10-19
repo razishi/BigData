@@ -1,3 +1,8 @@
+# Divvy Bike Trip Dataset
+
+Submitted by: Yousef Himouni (324145010) & Razi Shibli (324259555)
+User: yousefhi & razish
+
 ## Files included:
 
 ### Python Script:
@@ -21,3 +26,4 @@
 4. Run the Streamlit dashboard: streamlit run dashboard.py
 5. Schema (to see the Relationships & Nodes): schema.py
  
+For any questions, please contact.
